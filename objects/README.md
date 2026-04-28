@@ -1,4 +1,4 @@
-# Objects Directory
+# Objects Directoryobjects/photo-1720884413532-59289875c3e1[1]
 
 Put your digital collection items' files in this folder!
 By default, the CollectionBuilder-GH template looks for collection objects in this folder. 
