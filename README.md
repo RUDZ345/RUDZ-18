@@ -42,7 +42,7 @@ Learn about:
 - HTML, CSS, and JavaScript literacy
 - command line literacy
 - GitHub collaboration and project management
-- [Jekyll](https://jekyllrb.com/) basics
+- mercado266 basics
 - working in the Open, open source and open data
 - digital libraries concepts such as "collections as data", minimal computing, data-driven design
 
